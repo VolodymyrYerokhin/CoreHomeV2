@@ -1,0 +1,6 @@
+D:\Projects\CoreDemo\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csprojAssemblyReference.cache
+D:\Projects\CoreDemo\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.csproj.CoreCompileInputs.cache
+D:\Projects\CoreDemo\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cache
+D:\Projects\CoreDemo\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.RazorAssemblyInfo.cs
+D:\Projects\CoreDemo\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfoInputs.cache
+D:\Projects\CoreDemo\BackEnd\obj\Debug\netcoreapp2.1\BackEnd.AssemblyInfo.cs
